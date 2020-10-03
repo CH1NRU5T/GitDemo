@@ -1,4 +1,7 @@
-// ansh
+/* This program is written to find the product of digits of a number entered by the user
+   created by Ansh Agrawal
+   2/10/20
+   */
 #include<stdio.h>
 int main()
 {
